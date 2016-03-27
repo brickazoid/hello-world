@@ -1,2 +1,4 @@
 # hello-world
-first
+first file ever!
+
+Hi, peeps! I love Lego and traveling.
